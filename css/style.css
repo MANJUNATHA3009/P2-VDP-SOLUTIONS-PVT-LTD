@@ -2963,3 +2963,8 @@ footer {
 .slider-text-wrapper{
 	max width: 100%;
  }
+
+form{
+	color: white;
+	background-color: white;
+}
